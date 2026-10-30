@@ -1,0 +1,14 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Flutter / Frontend (if applicable)
+.dart_tool/
+.packages
+build/
+.pub/
+git status
